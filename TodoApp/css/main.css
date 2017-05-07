@@ -92,3 +92,8 @@ li {
 	float:left;
 	padding:10px 5px;
 }
+
+.deleteBtn {
+
+	float: right;
+}
